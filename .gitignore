@@ -1,0 +1,11 @@
+/object\ detection/yolov5/exp/*
+# images
+*.jpg
+*.jpeg
+*.png
+
+# weight files
+*.pth
+
+# dirs
+*VOCdevkit/
